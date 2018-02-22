@@ -9,9 +9,9 @@ DB_USER="silobolsas"
 DB_PASS="b64875d6039a6c4161a99e073210a3b4"
 
 # SQL folders
-DIR_BASE="/var/www/database/install/base/"
-DIR_TABLES="/var/www/database/install/tables/"
-DIR_DUMMY="/var/www/database/install/dummy/"
+DIR_BASE="/var/www/database.silobolsas.com/install/base"
+DIR_TABLES="/var/www/database.silobolsas.com/install/tables"
+DIR_DUMMY="/var/www/database.silobolsas.com/install/dummy"
 
 
 # ===============================================
